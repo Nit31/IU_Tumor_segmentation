@@ -1,5 +1,5 @@
 ## Innopolis University PMLDL course assignment 1
-
+![img.png](images/img.png)
 ### Main Task
 
 In this task I need to deploy a model in an API and create a web application that interacts with the API.
