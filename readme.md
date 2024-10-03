@@ -3,9 +3,7 @@
 ### Main Task
 
 In this task I need to deploy a model in an API and create a web application that interacts with the API.
-The model API accepts the requests from the web application and sends back the responses. 
-The web application must at least contain the input fields, button for make a prediction, 
-and the area with the prediction itself.
+The model API accepts the requests from the web application and sends back the responses.
 
 ### Methodology
 I have decided to use the [TumorSegmentation](https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation/data) dataset,
@@ -23,4 +21,4 @@ cd code/deployment
 docker-compose up --build
 ```
 
-Proceed to 0.0.0.0:8501 in your browser. The web application is ready to use.
+Proceed to `0.0.0.0:8501` in your browser. The web application is ready to use.
